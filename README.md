@@ -1,6 +1,6 @@
 # merge-solo
 
-chicken
+beef
 noodle
 soup
 is
